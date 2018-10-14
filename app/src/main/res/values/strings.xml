@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoGuess</string>.
+    <string name="explanation_text">Can you guess if these Streetview images are in Europe? Swipe the image left for Europe, right if not in europe.</string>
+</resources>
